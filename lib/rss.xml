@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Self-Publish Test]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Self-Publish Test</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 20 Apr 2025 19:41:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 20 Apr 2025 19:41:39 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Azure Llama]]></title><description><![CDATA[ 
+ <br>Azure Llama is an adorable loveli llama]]></description><link>Azure Llama.html</link><guid isPermaLink="false">Azure Llama.md</guid><pubDate>Sun, 20 Apr 2025 19:23:48 GMT</pubDate></item><item><title><![CDATA[Hoarfrost]]></title><description><![CDATA[ 
+ <br>Hoarfrost is a cute <a data-href="changeling" href="changeling" class="internal-link" target="_self" rel="noopener nofollow">changeling</a> who loves the even cuter <a data-href="Azure Llama" href="Azure Llama.html" class="internal-link" target="_self" rel="noopener nofollow">Azure Llama</a>]]></description><link>Hoarfrost.html</link><guid isPermaLink="false">Hoarfrost.md</guid><pubDate>Sun, 20 Apr 2025 19:19:36 GMT</pubDate></item><item><title><![CDATA[Heading 1]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br><br>Italics<br>
+Bold<br>
+Both<br>
+Highlight<br>
+Strikethrough<br><br>
+<br>Bullet
+<br>Points
+<br>
+<br>Numbered
+<br>Bullets
+<br>
+<br>Todo
+<br>List
+<br>
+Then some quotes
+<br>Info
+Quotes with callout
+<br>Warning
+Closed Quote Test
+<br>Success
+Opened Quote Test
+<br>inline code block<br>Multi-line code block
+<br>print("Code block with syntax highlighting")
+<br><br><a data-tooltip-position="top" aria-label="https://www.google.com" rel="noopener nofollow" class="external-link" href="https://www.google.com" target="_blank">Link To Google</a><br>
+Google's Logo:<br>
+<img alt="Google's Logo" src="https://logospng.org/wp-content/uploads/google.jpg" referrerpolicy="no-referrer"><br>Local Image:<br>
+]]></description><link>Markdown Features.html</link><guid isPermaLink="false">Markdown Features.md</guid><pubDate>Sun, 20 Apr 2025 19:38:53 GMT</pubDate><enclosure url="https://logospng.org/wp-content/uploads/google.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://logospng.org/wp-content/uploads/google.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Welcome]]></title><description><![CDATA[ 
+ <br>This is your new vault.<br>Make a note of something, <a data-href="create a link" href="create a link" class="internal-link" target="_self" rel="noopener nofollow">create a link</a>, or try <a data-tooltip-position="top" aria-label="https://help.obsidian.md/Plugins/Importer" rel="noopener nofollow" class="external-link" href="https://help.obsidian.md/Plugins/Importer" target="_blank">the Importer</a>!<br>When you're ready, delete this note and make the vault your own.<br>Now let's write about <a data-href="Hoarfrost" href="Hoarfrost.html" class="internal-link" target="_self" rel="noopener nofollow">Hoarfrost</a><br>Then I'll test some <a data-tooltip-position="top" aria-label="Markdown Features" data-href="Markdown Features" href="Markdown Features.html" class="internal-link" target="_self" rel="noopener nofollow">markdown features</a>]]></description><link>Welcome.html</link><guid isPermaLink="false">Welcome.md</guid><pubDate>Sun, 20 Apr 2025 19:24:30 GMT</pubDate></item></channel></rss>
